@@ -1,4 +1,6 @@
-#a simple web app with fetch data from an API
+# Fetch web app
+___
+## A simple web app with fetch data from an API
 ---
 Below is a simple web app that uses HTML, CSS, and JavaScript to fetch data from an API. In this example, we'll use the JSONPlaceholder API, which is a free fake online REST API for testing and prototyping.
 
